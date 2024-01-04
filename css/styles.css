@@ -30,6 +30,6 @@ p {
 
 body {
     background-color: rgb(90, 178, 194);
-    font-family: sans-serif;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
 }
